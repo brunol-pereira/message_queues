@@ -24,4 +24,7 @@ As aplicações utilizam Kafka para comunicação assíncrona, com a Aplicação
 ### Resposta ao Cliente
 ![](https://raw.githubusercontent.com/brunol-pereira/queue_application/main/Imagens/RespostaCliente.PNG)
 
-Referência: https://www.youtube.com/watch?v=TJaeu-CQEuU
+Referências: 
+* https://developer.confluent.io/get-started/dotnet/#introduction
+* https://docs.confluent.io/kafka-clients/dotnet/current/overview.html#dotnet-example-code
+* https://www.youtube.com/watch?v=TJaeu-CQEuU
